@@ -16,5 +16,5 @@ public class Product {
     int id; //아이디
     String title; //제품이름
     double price; //가격
-    int stock; //재고수량
+    int inventory; //재고수량
 }
